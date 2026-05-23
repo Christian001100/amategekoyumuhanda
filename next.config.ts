@@ -5,9 +5,7 @@ const nextConfig: NextConfig = {
   images: {
     unoptimized: true,
   },
-  // Note: If hosting at https://<username>.github.io/<repo-name>/,
-  // uncomment and set your repository name below:
-  // basePath: "/<repo-name>",
+  basePath: "/amategekoyumuhanda",
 };
 
 export default nextConfig;
