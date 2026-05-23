@@ -1,0 +1,2624 @@
+[
+  {
+    "num": 10,
+    "question": "Icyapa cyerekana umuvuduko ntarengwa ikinyabiziga kitagomba kurenza gishyirwa gusa ku binyabiziga bifite uburemere ntarengwa bukurikira:",
+    "options": [
+      {
+        "letter": "a",
+        "text": "Burenga toni 1"
+      },
+      {
+        "letter": "b",
+        "text": "Burenga toni 2"
+      },
+      {
+        "letter": "c",
+        "text": "Burenga toni 24"
+      },
+      {
+        "letter": "d",
+        "text": "Nta gisubizo cy’ukuri kirimo"
+      }
+    ],
+    "answer": "d"
+  },
+  {
+    "num": 28,
+    "question": "Icyapa kivuga gutambuka mbere y’ibinyabiziga biturutse imbere gifite amabara akurikira:",
+    "options": [
+      {
+        "letter": "a",
+        "text": "Ubuso ni umweru"
+      },
+      {
+        "letter": "b",
+        "text": "Ikirango ni umutuku n’umukara"
+      },
+      {
+        "letter": "c",
+        "text": "Ikirango ni umweru n’umukara"
+      },
+      {
+        "letter": "d",
+        "text": "Nta gisubizo cy’ukuri kirimo"
+      }
+    ],
+    "answer": "d"
+  },
+  {
+    "num": 34,
+    "question": "Iyo kuyobya umuhanda ari ngombwa bigaragazwa kuva aho uhera no kuburebure bwawo n’icyapa gifite ubuso bw’amabara akurikira:",
+    "options": [
+      {
+        "letter": "a",
+        "text": "Ubururu"
+      },
+      {
+        "letter": "b",
+        "text": "Umweru"
+      },
+      {
+        "letter": "c",
+        "text": "Umutuku"
+      },
+      {
+        "letter": "d",
+        "text": "Nta gisubizo cy’ukuri"
+      }
+    ],
+    "answer": "a"
+  },
+  {
+    "num": 53,
+    "question": "Buri modoka cyangwa buri romoruki ikuruwe n’iyo modoka bishobora kugira itara risa n’icyatsi kibisi bituma umuyobozi yerekana ko yabonye ikimenyetso cy’uwitegura kumunyuraho. Iryo tara rigomba gushyirwa aha hakurikira:",
+    "options": [
+      {
+        "letter": "a",
+        "text": "hafi y’inguni y’ibumoso bw’ikinyabiziga"
+      },
+      {
+        "letter": "b",
+        "text": "inyuma hafi y’impera y’iburyo bw’ikinyabiziga"
+      },
+      {
+        "letter": "c",
+        "text": "inyuma ahegereye inguni y’iburyo"
+      },
+      {
+        "letter": "d",
+        "text": "nta gisubizo cy’ukuri kirimo"
+      }
+    ],
+    "answer": "d"
+  },
+  {
+    "num": 63,
+    "question": "Buri modoka cyangwa buri romoruki ikuruwe n’iyo modoka bishobora kugira itara rituma umuyobozi yerekana ko yabonye ikimenyetso cy’uwitegura kumunyuraho. Iryo tara rifite amabara akurikira:",
+    "options": [
+      {
+        "letter": "a",
+        "text": "umuhondo"
+      },
+      {
+        "letter": "b",
+        "text": "icyatsi kibisi"
+      },
+      {
+        "letter": "c",
+        "text": "umweru"
+      },
+      {
+        "letter": "d",
+        "text": "umutuku"
+      }
+    ],
+    "answer": "b"
+  },
+  {
+    "num": 83,
+    "question": "Icyapa kibuza kunyura kubindi binyabiziga byose uretse ibinyamitende ibiri n’amapikipiki adafite akanyabiziga ku ruhande gifite ibimenyetso by’amabara akurikira:",
+    "options": [
+      {
+        "letter": "a",
+        "text": "umweru n’umukara"
+      },
+      {
+        "letter": "b",
+        "text": "umutuku n’umukara"
+      },
+      {
+        "letter": "c",
+        "text": "ubururu"
+      },
+      {
+        "letter": "d",
+        "text": "A na B ni ibisubizo by’ukuri"
+      }
+    ],
+    "answer": "b"
+  },
+  {
+    "num": 84,
+    "question": "Icyapa kivuga ko hatanyurwa mu byerekezo byombi kirangwa n’ubuso bw’ibara rikurikira:",
+    "options": [
+      {
+        "letter": "a",
+        "text": "umukara"
+      },
+      {
+        "letter": "b",
+        "text": "umweru"
+      },
+      {
+        "letter": "c",
+        "text": "ubururu"
+      },
+      {
+        "letter": "d",
+        "text": "umutuku"
+      }
+    ],
+    "answer": "b"
+  },
+  {
+    "num": 93,
+    "question": "Icyapa cyerekana ahantu hagenewe guhagararwamo n’imodoka nini zagenewe gutwara abantu cyirangwa n’ubuso bw’amabara akurikira:",
+    "options": [
+      {
+        "letter": "a",
+        "text": "ubururu"
+      },
+      {
+        "letter": "b",
+        "text": "umweru"
+      },
+      {
+        "letter": "c",
+        "text": "umutuku"
+      },
+      {
+        "letter": "d",
+        "text": "nta gisubizo cy’ukuri kirimo"
+      }
+    ],
+    "answer": "d"
+  },
+  {
+    "num": 94,
+    "question": "Icyapa cyerekana ko inzira giteyeho mu ntangiriro idakomeza kigaragazwa n’ikirango (ikimenyetso) cy’amabara akurikira:",
+    "options": [
+      {
+        "letter": "a",
+        "text": "umukara n’umutuku"
+      },
+      {
+        "letter": "b",
+        "text": "umukara n’umweru"
+      },
+      {
+        "letter": "c",
+        "text": "umweru n’umutuku"
+      },
+      {
+        "letter": "d",
+        "text": "nta gisubizo cy’ukuri kirimo"
+      }
+    ],
+    "answer": "c"
+  },
+  {
+    "num": 101,
+    "question": "Icyapa cy’inyongera kigaragaza ikibanza cy’ingando cyangwa cy’abantu benshi bagendera ku nyamaswa kirangwa n’amabara akurikira:",
+    "options": [
+      {
+        "letter": "a",
+        "text": "ubururu, umweru n’umukara"
+      },
+      {
+        "letter": "b",
+        "text": "umukara umweru n’umuhondo"
+      },
+      {
+        "letter": "c",
+        "text": "icyatsi kibisi, umuhondo n’ikirango cy’umukara"
+      },
+      {
+        "letter": "d",
+        "text": "nta gisubizo cy’ukuri kirimo"
+      }
+    ],
+    "answer": "a"
+  },
+  {
+    "num": 102,
+    "question": "Icyapa cyerekana ahantu amategeko y’ Umuhanda urombeje w’ibice byinshi atangirira gukurikizwa, kirangwa n’ibirango (ibimenyetso) by’amabara akurikira:",
+    "options": [
+      {
+        "letter": "a",
+        "text": "umweru n’umukara"
+      },
+      {
+        "letter": "b",
+        "text": "umweru n’umutuku"
+      },
+      {
+        "letter": "c",
+        "text": "umweru n’umuhondo"
+      },
+      {
+        "letter": "d",
+        "text": "nta gisubizo cy’ukuri kirimo"
+      }
+    ],
+    "answer": "d"
+  },
+  {
+    "num": 104,
+    "question": "Iyo mu muhanda, imirimo yihariye ubugari butuma abayobozi bagomba kuva mu mwanya wabo usanzwe kugirango bakomeze urugendo, ahategetswe kunyurwa hagaragazwa n’ikimenyetso gishyirwa aho imirimo irangirira mu ruhande rugenderwamo. Icyo kimenyetso kirangwa n’amabara akurikira:",
+    "options": [
+      {
+        "letter": "a",
+        "text": "ubuso bw’ubururu ikirango cy’umweru"
+      },
+      {
+        "letter": "b",
+        "text": "umuzenguruko w’umutuku, ubuso umweru n’ikirango cy’umukara"
+      },
+      {
+        "letter": "c",
+        "text": "umuzenguruko w’umutuku, ubuso mu ibara ryera, ikirango mu ibara ry’umutuku n’umukara"
+      },
+      {
+        "letter": "d",
+        "text": "nta gisubizo cy’ukuri kirimo"
+      }
+    ],
+    "answer": "a"
+  },
+  {
+    "num": 105,
+    "question": "Icyapa cyerekana ko hari amabwiriza yihariye mu buryo bwo kugendera mu cyambu cyangwa ku kibuga cy’indege giteye ku buryo bukurikira:",
+    "options": [
+      {
+        "letter": "a",
+        "text": "ishusho mpandeshatu, ubuso mu ibara ryera, ikirango mu ibara ry’umukara"
+      },
+      {
+        "letter": "b",
+        "text": "ishusho mpandenye, ubuso mu ibara ry’ubururu n’ikirango kiri mu ibara ryera"
+      },
+      {
+        "letter": "c",
+        "text": "ishusho y’uruziga mu ibara ry’ubururu ni ikirango kiri mu ibara ryera"
+      },
+      {
+        "letter": "d",
+        "text": "nta gisubizo cy’ukuri kirimo"
+      }
+    ],
+    "answer": "b"
+  },
+  {
+    "num": 106,
+    "question": "Nijoro igihe ijuru rikeye, itara ribonesha icyapa kiranga numero y’ikinyabiziga rigomba gutuma izo numero zisomerwa nibura mu ntera ikurikira:",
+    "options": [
+      {
+        "letter": "a",
+        "text": "m150"
+      },
+      {
+        "letter": "b",
+        "text": "m50"
+      },
+      {
+        "letter": "c",
+        "text": "m20"
+      },
+      {
+        "letter": "d",
+        "text": "m10"
+      }
+    ],
+    "answer": "c"
+  },
+  {
+    "num": 113,
+    "question": "Iyo ikinyabiziga gihagaritswe n’ijoro ku buryo abayobozi bakigana badashobora kumenya ko kibabereye imbogamizi, kigomba kurangirwa kure n’ikimenyetso cyabigenewe kiri ahantu hagaragara kugirango kiburire hakiri kare abandi bayobozi baza bagisanga, ariko ntibireba ibinyabiziga bikurikira:",
+    "options": [
+      {
+        "letter": "a",
+        "text": "velomoteri"
+      },
+      {
+        "letter": "b",
+        "text": "ipikipiki idafite akanyabiziga ku ruhande"
+      },
+      {
+        "letter": "c",
+        "text": "A na B ni ibisubizo by’ukuri"
+      },
+      {
+        "letter": "d",
+        "text": "nta gisubizo cy’ukuri kirimo"
+      }
+    ],
+    "answer": "c"
+  },
+  {
+    "num": 121,
+    "question": "Iyo bitewe n’imiterere y’ahantu intera itandukanya icyapa n’ahantu habi iri munsi ya m150 ku buryo bugaragara, iyo ntera yerekanishwa icyapa cy’inyongera giteye ku buryo bukurikira:",
+    "options": [
+      {
+        "letter": "a",
+        "text": "kare ifite ubuso bw’ibara ryera"
+      },
+      {
+        "letter": "b",
+        "text": "urukiramende rufite ubuso bw’ibara ryera"
+      },
+      {
+        "letter": "c",
+        "text": "mpandeshatu ifite umuzenguruko utukura"
+      },
+      {
+        "letter": "d",
+        "text": "nta gisubizo cy’ukuri kirimo"
+      }
+    ],
+    "answer": "b"
+  },
+  {
+    "num": 124,
+    "question": "Kugirango berekane ahantu habi cyane, hakoreshwa ikimenyetso cy’itara ry’umuhondo rimyasa, rivuga uburenganzira bwo gutambuka icyo kimenyetso barushijeho kwitonda. Ese icyo kimenyetso gihindura iki ku mategeko agenga gutambuka mbere:",
+    "options": [
+      {
+        "letter": "a",
+        "text": "ntacyo gihindura"
+      },
+      {
+        "letter": "b",
+        "text": "abo rireba nibo batambuka mbere"
+      },
+      {
+        "letter": "c",
+        "text": "abatwaye ibinyabiziga binini nibo batambuka mbere"
+      },
+      {
+        "letter": "d",
+        "text": "nta gisubizo cy’ukuri kirimo"
+      }
+    ],
+    "answer": "a"
+  },
+  {
+    "num": 136,
+    "question": "Icyapa cy’inyongera kerekana aho bagobokera ibinyabiziga kirangwa n’amabara akurikira:",
+    "options": [
+      {
+        "letter": "a",
+        "text": "ubururu, umweru, umutuku"
+      },
+      {
+        "letter": "b",
+        "text": "umweru, umukara, ubururu"
+      },
+      {
+        "letter": "c",
+        "text": "umutuku, umweru n’umukara"
+      },
+      {
+        "letter": "d",
+        "text": "nta gisubizo cy’ukuri kirimo"
+      }
+    ],
+    "answer": "b"
+  },
+  {
+    "num": 137,
+    "question": "Icyapa cyerekana uburebure bw’igice cyatera ibyago cyangwa bw’ahantu amabwiriza y’icyo cyapa agomba gukurikizwa kirangwa n’ubuso n’ibimenyetso bikurikira:",
+    "options": [
+      {
+        "letter": "a",
+        "text": "ubuso umweru, ikimenyetso ubururu"
+      },
+      {
+        "letter": "b",
+        "text": "ubuso ubururu, ikimenyetso umweru"
+      },
+      {
+        "letter": "c",
+        "text": "ubuso ubururu, ikimenyetso umweru n’umukara"
+      },
+      {
+        "letter": "d",
+        "text": "nta gisubizo cy’ukuri kirimo"
+      }
+    ],
+    "answer": "d"
+  },
+  {
+    "num": 179,
+    "question": "Icyapa cyerekana umuvuduko ntarengwa ikinyabiziga kitagomba kurenza gishyirwa ku binyabiziga bifite uburebure ntarengwa bukurikira:",
+    "options": [
+      {
+        "letter": "a",
+        "text": "burenga toni 1"
+      },
+      {
+        "letter": "b",
+        "text": "burenga toni 2"
+      },
+      {
+        "letter": "c",
+        "text": "burenga toni 24"
+      },
+      {
+        "letter": "d",
+        "text": "nta gisubizo cy’ukuri kirimo"
+      }
+    ],
+    "answer": "d"
+  },
+  {
+    "num": 196,
+    "question": "Iyo kuyobya umuhanda ari ngombwa bigaragazwa kuva aho uhera no kuburebure bwawo n’icyapa gifite ubuso bw’amabara akurikira:",
+    "options": [
+      {
+        "letter": "a",
+        "text": "umukara"
+      },
+      {
+        "letter": "b",
+        "text": "umweru"
+      },
+      {
+        "letter": "c",
+        "text": "umutuku"
+      },
+      {
+        "letter": "d",
+        "text": "nta gisubizo cy’ukuri kirimo"
+      }
+    ],
+    "answer": "d"
+  },
+  {
+    "num": 209,
+    "question": "Buri modoka cyangwa buri romoruki ikuruwe n’iyo modoka bishobora kugira itara risa n’icyatsi kibisi bituma umuyobozi yerekana ko yabonye ikimenyetso cy’uwitegura kumunyuraho. Iryo tara rigomba gushyirwa aha hakurikira:",
+    "options": [
+      {
+        "letter": "a",
+        "text": "hafi y’inguni y’ibumoso bw’ikinyabiziga"
+      },
+      {
+        "letter": "b",
+        "text": "inyuma hafi y’impera y’ibumoso bw’ikinyabiziga"
+      },
+      {
+        "letter": "c",
+        "text": "inyuma ahegereye inguni y’iburyo"
+      },
+      {
+        "letter": "d",
+        "text": "nta gisubizo cy’ukuri kirimo"
+      }
+    ],
+    "answer": "b"
+  },
+  {
+    "num": 223,
+    "question": "Utwaye ikinyabiziga inyuma ya romoruki.umuyobozi wayo akaguha ikimenyetso cyo kumutambukaho iburyo kandi ugana ibumoso, wakora iki ?",
+    "options": [
+      {
+        "letter": "a",
+        "text": "Kugabanya umuvuduko ukareka akagenda"
+      },
+      {
+        "letter": "b",
+        "text": "Gukomeza iburyo bwawe"
+      },
+      {
+        "letter": "c",
+        "text": "Kumunyuraho iburyo bwe"
+      },
+      {
+        "letter": "d",
+        "text": "Kugumana umuvuduko wari ufite ukamuvugiriza ihoni"
+      }
+    ],
+    "answer": "a"
+  },
+  {
+    "num": 229,
+    "question": "Iki cyapa cyivuga iki?",
+    "options": [
+      {
+        "letter": "a",
+        "text": "Umuvuduko ntarengwa 30 km/h"
+      },
+      {
+        "letter": "b",
+        "text": "Iherezo ry’umuvuduko muke ntarengwa utegetswe."
+      },
+      {
+        "letter": "c",
+        "text": "Iherezo ry’Umuvuduko muto utegetswe"
+      },
+      {
+        "letter": "d",
+        "text": "Umuvuduko uri hejuru 30 km/h"
+      }
+    ],
+    "answer": "b"
+  },
+  {
+    "num": 230,
+    "question": "Icyapa gikurikira kivuze iki?",
+    "options": [
+      {
+        "letter": "a",
+        "text": "Ntihanyurwa"
+      },
+      {
+        "letter": "b",
+        "text": "Birabujijwe guhagarara umwanya munini"
+      },
+      {
+        "letter": "c",
+        "text": "Umuvuduko utarengeje"
+      },
+      {
+        "letter": "d",
+        "text": "Inzira yabanyeshuli"
+      }
+    ],
+    "answer": "b"
+  },
+  {
+    "num": 234,
+    "question": "Iki cyapa gisobanura iki ?",
+    "options": [
+      {
+        "letter": "a",
+        "text": "Iherezo ry’ibibuzwa byose mu karere ku binyabiziga bigenda"
+      },
+      {
+        "letter": "b",
+        "text": "Ntihemerewe kuhahagarara"
+      },
+      {
+        "letter": "c",
+        "text": "Umuvuduko ntarengwa wemewe"
+      },
+      {
+        "letter": "d",
+        "text": "Nta gisubizo cy’ukuri kirimo"
+      }
+    ],
+    "answer": "a"
+  },
+  {
+    "num": 236,
+    "question": "Nikihe cyapa cyerekena ko nta kinyabiziga gifite moteri cyemerewe kuhanyura?",
+    "options": [
+      {
+        "letter": "a",
+        "text": ""
+      },
+      {
+        "letter": "b",
+        "text": ""
+      },
+      {
+        "letter": "c",
+        "text": ""
+      },
+      {
+        "letter": "d",
+        "text": ""
+      }
+    ],
+    "answer": "a"
+  },
+  {
+    "num": 237,
+    "question": "iki cyapa gisobanura iki ?",
+    "options": [
+      {
+        "letter": "a",
+        "text": "Uburenganzira bwo gutambuka mbere"
+      },
+      {
+        "letter": "b",
+        "text": "Nta kinyabiziga kigendeshwa na moteri"
+      },
+      {
+        "letter": "c",
+        "text": "ibyerekezo bibiri by’umuhanda"
+      },
+      {
+        "letter": "d",
+        "text": "Birabujijwe kunyuranaho"
+      }
+    ],
+    "answer": "d"
+  },
+  {
+    "num": 238,
+    "question": "Imbere yawe iki cyapa kikubwiye iki ?",
+    "options": [
+      {
+        "letter": "a",
+        "text": "Umuvuduko ntarengwa wemewe"
+      },
+      {
+        "letter": "b",
+        "text": "Iherezo ry’ibyo wabuzwaga"
+      },
+      {
+        "letter": "c",
+        "text": "Guhagarara umwanya munini n’umwanya moto ntibyemewe"
+      },
+      {
+        "letter": "d",
+        "text": "Birabujijwe kuhinjira"
+      }
+    ],
+    "answer": "c"
+  },
+  {
+    "num": 239,
+    "question": "Iki cyapa gisobanura iki?",
+    "options": [
+      {
+        "letter": "a",
+        "text": "Umuhanda uzenguruka"
+      },
+      {
+        "letter": "b",
+        "text": "Igice cy’umuhanda uzenguruka"
+      },
+      {
+        "letter": "c",
+        "text": "Aho banyura bazengurutse"
+      },
+      {
+        "letter": "d",
+        "text": "Ibisubizo byose nibyo"
+      }
+    ],
+    "answer": "c"
+  },
+  {
+    "num": 240,
+    "question": "Iki cyapa gisubanura iki?",
+    "options": [
+      {
+        "letter": "a",
+        "text": "Iteme ridahoraho"
+      },
+      {
+        "letter": "b",
+        "text": "Umuhanda utaringaniye"
+      },
+      {
+        "letter": "c",
+        "text": "Umuhanda w’injira mu kuzimu"
+      },
+      {
+        "letter": "d",
+        "text": "Ubutaka bworoshye"
+      }
+    ],
+    "answer": "b"
+  },
+  {
+    "num": 241,
+    "question": "Iki cyapa gisobanura iki?",
+    "options": [
+      {
+        "letter": "a",
+        "text": "Umuyaga w’intambike"
+      },
+      {
+        "letter": "b",
+        "text": "Urusaku rwo mu muhanda"
+      },
+      {
+        "letter": "c",
+        "text": "Ikibuga cy’indege"
+      },
+      {
+        "letter": "d",
+        "text": "Ibisubizko byose nibyo"
+      }
+    ],
+    "answer": "a"
+  },
+  {
+    "num": 242,
+    "question": "Iki Cyapa Gisobanura Iki?",
+    "options": [
+      {
+        "letter": "a",
+        "text": "Iherezo Ry’inzira Y’abanyamaguru"
+      },
+      {
+        "letter": "b",
+        "text": "Iherezo Ry’umuhanda Urombereje W’ibice Byinshi"
+      },
+      {
+        "letter": "c",
+        "text": "A Na B Ni Ibisubizo By’ukuri"
+      },
+      {
+        "letter": "d",
+        "text": "Nta nzira ihari"
+      }
+    ],
+    "answer": "b"
+  },
+  {
+    "num": 243,
+    "question": "Iki cyapa gisobanura Iki?",
+    "options": [
+      {
+        "letter": "a",
+        "text": "Iherezo Ry’umuhanda Wi Byerekezo Bibiri"
+      },
+      {
+        "letter": "b",
+        "text": "Iteme rinini Kandi rirerire"
+      },
+      {
+        "letter": "c",
+        "text": "Ifungana Ry’umuhanda"
+      },
+      {
+        "letter": "d",
+        "text": "Iherezo ry’iteme rifunganye"
+      }
+    ],
+    "answer": "c"
+  },
+  {
+    "num": 244,
+    "question": "Iki cyapa gisobanura iki?",
+    "options": [
+      {
+        "letter": "a",
+        "text": "Isangano rifite ishusho ya T"
+      },
+      {
+        "letter": "b",
+        "text": "Inzira idakomeza"
+      },
+      {
+        "letter": "c",
+        "text": "Aho baterefonera"
+      },
+      {
+        "letter": "d",
+        "text": "Nta gisubizo cy’ukuri"
+      }
+    ],
+    "answer": "b"
+  },
+  {
+    "num": 245,
+    "question": "Iki cyapa gisobanura iki?",
+    "options": [
+      {
+        "letter": "a",
+        "text": "Inzira y’abanyeshuri"
+      },
+      {
+        "letter": "b",
+        "text": "Abanyamaguru ntibemerewe"
+      },
+      {
+        "letter": "c",
+        "text": "Agace k’abanyamaguru nta kinyabiziga"
+      },
+      {
+        "letter": "d",
+        "text": "Hegereye aho abanyamaguru bambukira"
+      }
+    ],
+    "answer": "d"
+  },
+  {
+    "num": 246,
+    "question": "wakora iki ubonye icyi cyapa ?",
+    "options": [
+      {
+        "letter": "a",
+        "text": "guhagarara gusa igihe ibinyabiziga bikwegereye"
+      },
+      {
+        "letter": "b",
+        "text": "guhagarara niyo nta kinyabiziga ubona"
+      },
+      {
+        "letter": "c",
+        "text": "Guhagarara gusa niba hari abana bategereje kwambuka"
+      },
+      {
+        "letter": "d",
+        "text": "Guhagarara gusa igihe ikimenyetso cyaka ari umutuku"
+      }
+    ],
+    "answer": "b"
+  },
+  {
+    "num": 247,
+    "question": "Iki cyapa gisobanura iki?",
+    "options": [
+      {
+        "letter": "a",
+        "text": "Uguhinguka ku mwaro cyangwa ku nkombe cyangwa ahegereye icyome"
+      },
+      {
+        "letter": "b",
+        "text": "Inzira nyabagendwa iri kumusozi ucuramye"
+      },
+      {
+        "letter": "c",
+        "text": "Umuhanda utaringaniye"
+      },
+      {
+        "letter": "d",
+        "text": "Umuhanda wangijwe n’isuri"
+      }
+    ],
+    "answer": "a"
+  },
+  {
+    "num": 248,
+    "question": "Iki cyapa gisobanura iki?",
+    "options": [
+      {
+        "letter": "a",
+        "text": "Hanyurwa na velomoteri gusa"
+      },
+      {
+        "letter": "b",
+        "text": "Nta modoka"
+      },
+      {
+        "letter": "c",
+        "text": "Hanyurwa nimodoka gusa"
+      },
+      {
+        "letter": "d",
+        "text": "Ntihanyurwa n’amapikipiki"
+      }
+    ],
+    "answer": "d"
+  },
+  {
+    "num": 249,
+    "question": "Icyapa gitanga uburenganzira bwo gutambuka mbere kigira iyihe shusho?",
+    "options": [
+      {
+        "letter": "a",
+        "text": ""
+      },
+      {
+        "letter": "b",
+        "text": ""
+      },
+      {
+        "letter": "c",
+        "text": ""
+      },
+      {
+        "letter": "d",
+        "text": ""
+      }
+    ],
+    "answer": "c"
+  },
+  {
+    "num": 250,
+    "question": "Iki cyapa gisobanura iki?",
+    "options": [
+      {
+        "letter": "a",
+        "text": "Ahegereye amasangano y’inzira nyabagendwa n’inzira ya gari ya moshi ibambiye"
+      },
+      {
+        "letter": "b",
+        "text": "Inzira ibambiye imbere"
+      },
+      {
+        "letter": "c",
+        "text": "Inzira itabambiye itanafunze"
+      },
+      {
+        "letter": "d",
+        "text": "Imbere hari ikiraro cy’amatungo"
+      }
+    ],
+    "answer": "a"
+  },
+  {
+    "num": 251,
+    "question": "Iki cyapa gisobanura iki?",
+    "options": [
+      {
+        "letter": "a",
+        "text": "Umuhanda wubatswe nabi"
+      },
+      {
+        "letter": "b",
+        "text": "Agacuri kateza ibyago"
+      },
+      {
+        "letter": "c",
+        "text": "Umuhanda utaringaniye"
+      },
+      {
+        "letter": "d",
+        "text": "Akazamuko gahanamye"
+      }
+    ],
+    "answer": "b"
+  },
+  {
+    "num": 252,
+    "question": "Iki cyapa gisobanura iki?",
+    "options": [
+      {
+        "letter": "a",
+        "text": "Guhindura icyerekezo ibumoso ugana aho bahagarara"
+      },
+      {
+        "letter": "b",
+        "text": "Umuhanda udakomeza"
+      },
+      {
+        "letter": "c",
+        "text": "Nti byemewe guhindura icyerekezo ibumoso"
+      },
+      {
+        "letter": "d",
+        "text": "Guhindura ikirekezo ibumoso ugana ku cyome"
+      }
+    ],
+    "answer": "b"
+  },
+  {
+    "num": 257,
+    "question": "Iki cyapa gisobanura iki?",
+    "options": [
+      {
+        "letter": "a",
+        "text": "Ukugendera mu muhanda ubisikanirwamo"
+      },
+      {
+        "letter": "b",
+        "text": "Ukugendera mu muhanda ubisikanirwamo ntibyemewe"
+      },
+      {
+        "letter": "c",
+        "text": "Cyerekana aho umunyegare agomba kunyura"
+      },
+      {
+        "letter": "d",
+        "text": "Nta gisubizo cy’ukuri kirimo"
+      }
+    ],
+    "answer": "a"
+  },
+  {
+    "num": 258,
+    "question": "Iki cyapa gisobanura iki?",
+    "options": [
+      {
+        "letter": "a",
+        "text": "Ahatangirwa serivisi ni muri metero 30."
+      },
+      {
+        "letter": "b",
+        "text": "Umuvuduko munini ntarengwa utegetswe ni 30 km/h."
+      },
+      {
+        "letter": "c",
+        "text": "Umuvuduko muto ntarengwa utegetswe ni 30 km/h."
+      },
+      {
+        "letter": "d",
+        "text": "Aho ibinyabiziga bihagarara ni imbere mu birometero 30."
+      }
+    ],
+    "answer": "c"
+  },
+  {
+    "num": 259,
+    "question": "Iki cyapa gisobanura iki?",
+    "options": [
+      {
+        "letter": "a",
+        "text": "Ahegereye umuhanda unyerera."
+      },
+      {
+        "letter": "b",
+        "text": "Imbere ipine ryapfumutse."
+      },
+      {
+        "letter": "c",
+        "text": "Ahegereye icyago kidasobanuye ukundi."
+      },
+      {
+        "letter": "d",
+        "text": "Imbere hari hatangirwa serivisi."
+      }
+    ],
+    "answer": "c"
+  },
+  {
+    "num": 260,
+    "question": "Iki cyapa gisobanura iki?",
+    "options": [
+      {
+        "letter": "a",
+        "text": "Imbere hari umuyobozi w’amatungo."
+      },
+      {
+        "letter": "b",
+        "text": "Imbere hari inzira ya gari ya moshi."
+      },
+      {
+        "letter": "c",
+        "text": "Ahegereye amasangano y’inzira nyabagendwa n’inzira ya gari ya moshi hatabambiye"
+      },
+      {
+        "letter": "d",
+        "text": "Inkomane ibambiye."
+      }
+    ],
+    "answer": "c"
+  },
+  {
+    "num": 261,
+    "question": "Muri iri sangano ry’umuhanda hari icyapa gisobanura “guhagarara” n’umurongo wera urombereje munzira . Niyihe mpamvu hari iki cyapa cyo “guhagarara” hano?",
+    "options": [
+      {
+        "letter": "a",
+        "text": "Biragoye kubona neza mu muhanda munini"
+      },
+      {
+        "letter": "b",
+        "text": "Umuvuduko mu muhanda munini wavanyweho"
+      },
+      {
+        "letter": "c",
+        "text": "Ni mwisangano ry’umuhanda rikoreshwa cyane"
+      },
+      {
+        "letter": "d",
+        "text": "Hari imirongo iburira ibyago bitunguranye"
+      }
+    ],
+    "answer": "a"
+  },
+  {
+    "num": 266,
+    "question": "Umuyobozi w’ikinyabizaga cy’ikoreye ibintu bishobora gufata inkongi, n’ikihe cyapa cyerekana ko ibyo atwaye biturika by’afata inkongi ?",
+    "options": [
+      {
+        "letter": "a",
+        "text": ""
+      },
+      {
+        "letter": "b",
+        "text": ""
+      },
+      {
+        "letter": "c",
+        "text": ""
+      },
+      {
+        "letter": "d",
+        "text": ""
+      }
+    ],
+    "answer": "b"
+  },
+  {
+    "num": 268,
+    "question": "Uhuye n’ingorane utwaye ikinyabiziga , mu muhanda ufite ibyerekezo bibiri, ufite ikimenyetso kiburira cya mpandeshatu . wagishyira mu ntera ingana iki uvuye aho ikinyabiziga cyahagaze",
+    "options": [
+      {
+        "letter": "a",
+        "text": "Metero 5"
+      },
+      {
+        "letter": "b",
+        "text": "Metero 25"
+      },
+      {
+        "letter": "c",
+        "text": "Metero 45"
+      },
+      {
+        "letter": "d",
+        "text": "Metero 100"
+      }
+    ],
+    "answer": "b"
+  },
+  {
+    "num": 270,
+    "question": "Icyapa gikoze mw’ishusho ya mpandeshatu kimenyesha:",
+    "options": [
+      {
+        "letter": "a",
+        "text": "ibyago"
+      },
+      {
+        "letter": "b",
+        "text": "ibibujijwe"
+      },
+      {
+        "letter": "c",
+        "text": "ibitegetswe"
+      },
+      {
+        "letter": "d",
+        "text": "ntagisubizo cy’ukuri kirimo"
+      }
+    ],
+    "answer": "a"
+  },
+  {
+    "num": 271,
+    "question": "Iki cyapa gisobanura :",
+    "options": [
+      {
+        "letter": "a",
+        "text": "uburenganzira bwo gutambuka mbere"
+      },
+      {
+        "letter": "b",
+        "text": "uburenganzira bwo gutambuka mbere mu yandi masangano y’umuhanda akwegereye"
+      },
+      {
+        "letter": "c",
+        "text": "ibyago imbere mu masangano y’umuhanda ukwegereye"
+      },
+      {
+        "letter": "d",
+        "text": "a na b ni ibisubizo by’ukuri"
+      }
+    ],
+    "answer": "a"
+  },
+  {
+    "num": 272,
+    "question": "Iki cyapa gisobanura:",
+    "options": [
+      {
+        "letter": "a",
+        "text": "Ntihanyurwa n’abanyamaguru"
+      },
+      {
+        "letter": "b",
+        "text": "Akayira kabanyamaguru"
+      },
+      {
+        "letter": "c",
+        "text": "Aho abanayamaguru bambukira"
+      },
+      {
+        "letter": "d",
+        "text": "B na c ni ibisubizo by’ukuri"
+      }
+    ],
+    "answer": "a"
+  },
+  {
+    "num": 274,
+    "question": "Iki cyapa gisobanura iki?",
+    "options": [
+      {
+        "letter": "a",
+        "text": "Hoteli"
+      },
+      {
+        "letter": "b",
+        "text": "Ibitaro"
+      },
+      {
+        "letter": "c",
+        "text": "Ahagenewe kugwa kajugujugu"
+      },
+      {
+        "letter": "d",
+        "text": "B na c ni ibisubizo by’ukuri"
+      }
+    ],
+    "answer": "b"
+  },
+  {
+    "num": 276,
+    "question": "iki cyapa kibuza abayobozi bibinyabiziga kunyuranaho :",
+    "options": [
+      {
+        "letter": "a",
+        "text": "iburyo"
+      },
+      {
+        "letter": "b",
+        "text": "ibumoso"
+      },
+      {
+        "letter": "c",
+        "text": "iburyo n’ibumoso"
+      },
+      {
+        "letter": "d",
+        "text": "nta gisubizo cy’ukuri kirimo"
+      }
+    ],
+    "answer": "b"
+  },
+  {
+    "num": 277,
+    "question": "Iki cyapa kibuza kunyuranaho ibumoso ku binyabiziga bikurikira :",
+    "options": [
+      {
+        "letter": "a",
+        "text": "ku binyabiziga byose"
+      },
+      {
+        "letter": "b",
+        "text": "ku binyabiziga byose bifite moteri"
+      },
+      {
+        "letter": "c",
+        "text": "kubinyabiziga byose uretse ibinyamitende ibiri n’amapikipiki adafite akanyabiziga ko k’uruhande"
+      },
+      {
+        "letter": "d",
+        "text": "nta gisubizo cy’ukuri kirimo"
+      }
+    ],
+    "answer": "c"
+  },
+  {
+    "num": 278,
+    "question": "iki kimenyetso cyaka kinyemerera gukomeza:",
+    "options": [
+      {
+        "letter": "a",
+        "text": "yego"
+      },
+      {
+        "letter": "b",
+        "text": "yego ariko utanga inzira kubanyamaguru"
+      },
+      {
+        "letter": "c",
+        "text": "yego utanga inzira kubandi bayobozi b’ibinyabizaga baturutse mukindi cyerekezo"
+      },
+      {
+        "letter": "d",
+        "text": "oya"
+      }
+    ],
+    "answer": "d"
+  },
+  {
+    "num": 280,
+    "question": "Ni ikihe cyapa muri ibi kintegeka gutanga inzira:",
+    "options": [
+      {
+        "letter": "a",
+        "text": "Icyapa A19"
+      },
+      {
+        "letter": "b",
+        "text": "Icyapa B5"
+      },
+      {
+        "letter": "c",
+        "text": "Icyapa B6"
+      },
+      {
+        "letter": "d",
+        "text": "Ntagisubizo cy’ukuri kirimo"
+      }
+    ],
+    "answer": "b"
+  },
+  {
+    "num": 281,
+    "question": "Iki cyapa gisobanura :",
+    "options": [
+      {
+        "letter": "a",
+        "text": "utubuye dutaruka mu muhanda"
+      },
+      {
+        "letter": "b",
+        "text": "umuhanda urimo amazi"
+      },
+      {
+        "letter": "c",
+        "text": "umuhanda unyerera"
+      },
+      {
+        "letter": "d",
+        "text": "a na b ni bisubizo by’ukuri"
+      }
+    ],
+    "answer": "a"
+  },
+  {
+    "num": 283,
+    "question": "Ni ikihe cyapa cy’inyemerera gutambuka mbere mu masangano y’umuhanda?",
+    "options": [
+      {
+        "letter": "a",
+        "text": "Icyapa B3"
+      },
+      {
+        "letter": "b",
+        "text": "Icyapa A22"
+      },
+      {
+        "letter": "c",
+        "text": "Icyapa A 20"
+      },
+      {
+        "letter": "d",
+        "text": "Ibisubizo byose ni ukuri"
+      }
+    ],
+    "answer": "a"
+  },
+  {
+    "num": 310,
+    "question": "Muri ibi binyabiziga n’ikihe gihagaze nabi?",
+    "options": [
+      {
+        "letter": "a",
+        "text": "Ibinyabiziga byombi"
+      },
+      {
+        "letter": "b",
+        "text": "Ikinyabiziga cy’icyatsi"
+      },
+      {
+        "letter": "c",
+        "text": "Ikinyabiziga cy’umutuku"
+      },
+      {
+        "letter": "d",
+        "text": "Nta n’imwe"
+      }
+    ],
+    "answer": "a"
+  },
+  {
+    "num": 313,
+    "question": "Niki ugomba gukora igihe wegereye ikimenyetso kimurika kiva mucyatsi kijya mumuhondo?",
+    "options": [
+      {
+        "letter": "a",
+        "text": "Ongera umuvuduko kugirango usoze ikoni"
+      },
+      {
+        "letter": "b",
+        "text": "Komeza kuko itara ry’icyatsi rigiye kwaka."
+      },
+      {
+        "letter": "c",
+        "text": "Hagarara niba utateza ibyago"
+      },
+      {
+        "letter": "d",
+        "text": "Komeza ubwitonzi witegura guhagarara mugihe itara rihindutse umutuku"
+      }
+    ],
+    "answer": "c"
+  },
+  {
+    "num": 319,
+    "question": "Niki umuyobozi w’ikinyabiziga yakora mu gihe abonye icyapa kiburira cya mpande eshatu gitukura mu muhanda?",
+    "options": [
+      {
+        "letter": "a",
+        "text": "Hagarara utegereze amabwiriza"
+      },
+      {
+        "letter": "b",
+        "text": "Umuyobozi w’ikinyabiziga agomba kugabanya umuvuduko ateganya icyago imbere ye"
+      },
+      {
+        "letter": "c",
+        "text": "Kukireka, ukagumana umuvuduko ufite ugakomeza"
+      },
+      {
+        "letter": "d",
+        "text": "Hagarara kuri icyo cyapa cya mpande eshatu mbere yo gukomeza"
+      }
+    ],
+    "answer": "b"
+  },
+  {
+    "num": 343,
+    "question": "Igihe ubonye icyapa kigaragaza ishuli wakora iki?",
+    "options": [
+      {
+        "letter": "a",
+        "text": "kugabanya umuvuduko no gukomeza witonze"
+      },
+      {
+        "letter": "b",
+        "text": "gukomeza n’umuvuduko uri hejuru kuko umunyeshuli agomba gutegereza"
+      },
+      {
+        "letter": "c",
+        "text": "kuvuza ihoni"
+      },
+      {
+        "letter": "d",
+        "text": "ibisubizo byose ni ukuri"
+      }
+    ],
+    "answer": "a"
+  },
+  {
+    "num": 364,
+    "question": "Icyapa kimenyesha kugendera mu muhanda ubisikanirwamo gifite:",
+    "options": [
+      {
+        "letter": "a",
+        "text": "Ishusho y’uruziga mw’ibara ritukura, ubuso bwera n’ikirango cy’umukara"
+      },
+      {
+        "letter": "b",
+        "text": "Ishusho ya mpandeshatu mw’ibara ritukura, ubuso bwera n’ikirango cy’umukara"
+      },
+      {
+        "letter": "c",
+        "text": "Ishusho ya mpandeshatu mw’ibara ritukura, ubuso bw’ubururu n’ikirango cy’umukara"
+      },
+      {
+        "letter": "d",
+        "text": "Ishusho y’uruziga mw’ibara ritukura, ubuso bw’ubururu n’ikirango cy’umukara"
+      }
+    ],
+    "answer": "b"
+  },
+  {
+    "num": 366,
+    "question": "Iki cyapa kivuga:",
+    "options": [
+      {
+        "letter": "a",
+        "text": "Aho imihanda ihurira"
+      },
+      {
+        "letter": "b",
+        "text": "inkomane y’aho umuhanda umwe urasukira iburyo"
+      },
+      {
+        "letter": "c",
+        "text": "a na b ni ibisubizo by’ukuri"
+      },
+      {
+        "letter": "d",
+        "text": "nta gisubizo cy’ukuri kirimo"
+      }
+    ],
+    "answer": "d"
+  },
+  {
+    "num": 367,
+    "question": "Iki cyapa gisobanura ibi bikurikira:",
+    "options": [
+      {
+        "letter": "a",
+        "text": "birabujijwe kunyura ku kindi kinyabiziga"
+      },
+      {
+        "letter": "b",
+        "text": "gutambuka mbere kw’ibinyabiziga bituruka aho ujya"
+      },
+      {
+        "letter": "c",
+        "text": "a na b ni ibisubizo by’ukuri"
+      },
+      {
+        "letter": "d",
+        "text": "nta gisubizo cyukuri kirimo"
+      }
+    ],
+    "answer": "b"
+  },
+  {
+    "num": 369,
+    "question": "Iki cyapa kivuga:",
+    "options": [
+      {
+        "letter": "a",
+        "text": "iherezo ryo gutambuka mbere"
+      },
+      {
+        "letter": "b",
+        "text": "gutambuka mbere kw’ibinyabiziga biturutse imbere aho ujya"
+      },
+      {
+        "letter": "c",
+        "text": "gutambuka mbere y’ibinyabiziga biturutse imbere"
+      },
+      {
+        "letter": "d",
+        "text": "nta gisubizo cy’ukuri kirimo"
+      }
+    ],
+    "answer": "c"
+  },
+  {
+    "num": 370,
+    "question": "Iki cyapa kigizwe:",
+    "options": [
+      {
+        "letter": "a",
+        "text": "ishusho mpandeshatu ,ubuso ubururu"
+      },
+      {
+        "letter": "b",
+        "text": "ishusho mpandeshatu,ubuso umukara"
+      },
+      {
+        "letter": "c",
+        "text": "ishusho mpandeshatu,ubuso umweru"
+      },
+      {
+        "letter": "d",
+        "text": "nta gisubizo cy’ukuri"
+      }
+    ],
+    "answer": "c"
+  },
+  {
+    "num": 371,
+    "question": "Iki cyapa kivuga:",
+    "options": [
+      {
+        "letter": "a",
+        "text": "ifungana ry’umuhanda iburyo"
+      },
+      {
+        "letter": "b",
+        "text": "ifungana ry’umuhanda w’akayira gasatira umuhanda ibumoso"
+      },
+      {
+        "letter": "c",
+        "text": "akayira gato"
+      },
+      {
+        "letter": "d",
+        "text": "nta gisubizo cy’ukuri"
+      }
+    ],
+    "answer": "b"
+  },
+  {
+    "num": 373,
+    "question": "Iki cyapa cyerekana :",
+    "options": [
+      {
+        "letter": "a",
+        "text": "ifungana ry’umuhanda"
+      },
+      {
+        "letter": "b",
+        "text": "ifungana ry’umuhanda n’akayira gasatira umuhanda i bumoso"
+      },
+      {
+        "letter": "c",
+        "text": "umuhanda utaringaniye"
+      },
+      {
+        "letter": "d",
+        "text": "nta gisubizo cy’ukuri kirimo"
+      }
+    ],
+    "answer": "d"
+  },
+  {
+    "num": 374,
+    "question": "Icyi cyapa gisobanura :",
+    "options": [
+      {
+        "letter": "a",
+        "text": "ntihanyurwa mu byerekezo byombi"
+      },
+      {
+        "letter": "b",
+        "text": "ntihanyurwa n’abandi uretse abahatuye"
+      },
+      {
+        "letter": "c",
+        "text": "hanyurwa mu cyerekezo kimwe gusa"
+      },
+      {
+        "letter": "d",
+        "text": "nta gisubizo cy’ukuri kirimo"
+      }
+    ],
+    "answer": "a"
+  },
+  {
+    "num": 375,
+    "question": "Icyi cyapa cyerekana :",
+    "options": [
+      {
+        "letter": "a",
+        "text": "Ifungana ry’umuhanda"
+      },
+      {
+        "letter": "b",
+        "text": "umuhanda unyerera"
+      },
+      {
+        "letter": "c",
+        "text": "umuhanda utaringaniye"
+      },
+      {
+        "letter": "d",
+        "text": "nta gisubizo cy’ukuri kirimo"
+      }
+    ],
+    "answer": "d"
+  },
+  {
+    "num": 376,
+    "question": "Iki cyapa kivuga:",
+    "options": [
+      {
+        "letter": "a",
+        "text": "ikoni iburyo"
+      },
+      {
+        "letter": "b",
+        "text": "akazamuko gashinze cyane"
+      },
+      {
+        "letter": "c",
+        "text": "akamanuko gashobora gutera ibyago"
+      },
+      {
+        "letter": "d",
+        "text": "b na c byose ni ukuri"
+      }
+    ],
+    "answer": "a"
+  },
+  {
+    "num": 378,
+    "question": "Icyapa kimenyesha kugendera mu muhanda ubisikanirwamo gifite:",
+    "options": [
+      {
+        "letter": "a",
+        "text": "Ishusho y’uruziga mw’ibara ritukura, ubuso bwera n’ikirango cy’umukara"
+      },
+      {
+        "letter": "b",
+        "text": "Ishusho ya mpandeshatu mw’ibara ritukura, ubuso bwera n’ikirango cy’umukara"
+      },
+      {
+        "letter": "c",
+        "text": "Ishusho ya mpandeshatu mw’ibara ritukura, ubuso bw’ubururu n’ikirango cy’umukara"
+      },
+      {
+        "letter": "d",
+        "text": "Ishusho y’uruziga mw’ibara ritukura, ubuso bw’ubururu n’ikirango cy’umukara"
+      }
+    ],
+    "answer": "b"
+  },
+  {
+    "num": 379,
+    "question": "Icyapa cyerekana inzira y’amatungo itegetswe giteye:",
+    "options": [
+      {
+        "letter": "a",
+        "text": "Uruziga mubuso bw’ubururu, ishusho y’inka mu ibara ry’umukara"
+      },
+      {
+        "letter": "b",
+        "text": "Uruziga mu ibara ryera, ishusho y’inka mwibara ry’ubururu"
+      },
+      {
+        "letter": "c",
+        "text": "Uruziga mu buso bw’ibara ry’ubururu, ishusho y’inka mu ibara ryera n’ikirango cy’umukara"
+      },
+      {
+        "letter": "d",
+        "text": "mpande eshatu mu buso bw’ibara ry’umweru n’ishusho y’inka mu ibara ry’umukara"
+      }
+    ],
+    "answer": "d"
+  },
+  {
+    "num": 380,
+    "question": "Icyapa cyerekana ko bibujijwe kuvuza amahoni kirangwa na :",
+    "options": [
+      {
+        "letter": "a",
+        "text": "ishusho y’uruziga, ubuso bw’ubururu, ikiranga cy’umukara"
+      },
+      {
+        "letter": "b",
+        "text": "ishusho y’uruziga, ubuso bw’ubururu, ikiranga cy’umweru"
+      },
+      {
+        "letter": "c",
+        "text": "ishusho y’uruziga, ubuso bw’umweru, ikiranga cy’umukara"
+      },
+      {
+        "letter": "d",
+        "text": "ntagisubizi cy’ukuri kirimo"
+      }
+    ],
+    "answer": "c"
+  },
+  {
+    "num": 385,
+    "question": "Ishusho y’icyapa kivuga’’ugukikira”bitegetswe ni :",
+    "options": [
+      {
+        "letter": "a",
+        "text": "mpandeshatu"
+      },
+      {
+        "letter": "b",
+        "text": "uruziga"
+      },
+      {
+        "letter": "c",
+        "text": "urukiramende"
+      },
+      {
+        "letter": "d",
+        "text": "nta gisubizo cy’ukuri kirimo"
+      }
+    ],
+    "answer": "b"
+  },
+  {
+    "num": 386,
+    "question": "Icyapa kivuga “icyerekezo gitegetswe”kigizwe n’ikirango cy’ibara :",
+    "options": [
+      {
+        "letter": "a",
+        "text": "umweru"
+      },
+      {
+        "letter": "b",
+        "text": "umutuku"
+      },
+      {
+        "letter": "c",
+        "text": "ubururu n’ikirango cy’umweru"
+      },
+      {
+        "letter": "d",
+        "text": "umukara"
+      }
+    ],
+    "answer": "c"
+  },
+  {
+    "num": 387,
+    "question": "Iki kimenyetso gitanzwe n’umukozi ubifitiye ububasha cyo guhagarara :",
+    "options": [
+      {
+        "letter": "a",
+        "text": "ku bakoresha umuhanda ba muturutse imbere"
+      },
+      {
+        "letter": "b",
+        "text": "ku bakoresha umuhanda bose bamuturutse imbere n’inyuma"
+      },
+      {
+        "letter": "c",
+        "text": "kubakoresha umuhanda bose bamuturutse inyuma"
+      },
+      {
+        "letter": "d",
+        "text": "nta gisubizo cy’ukuri kirimo"
+      }
+    ],
+    "answer": "b"
+  },
+  {
+    "num": 391,
+    "question": "K’umuyobozi w’ivatiri, iki cyapa kivuze iki ?",
+    "options": [
+      {
+        "letter": "a",
+        "text": "kirambuza gutwara ku muvuduko utarengeje 5km/h"
+      },
+      {
+        "letter": "b",
+        "text": "ntaburenganzira kimpa, mugihe gikurikizwa ku binyabiziga bifite hejuru y atoni 5"
+      },
+      {
+        "letter": "c",
+        "text": "ntacyo bindebaho mugihe bireba gusa zipima tone 5 no kurengaho."
+      },
+      {
+        "letter": "d",
+        "text": "Ntagisubizo cy’ukuri kirimo"
+      }
+    ],
+    "answer": "c"
+  },
+  {
+    "num": 394,
+    "question": "Kuri iki cyapa cyo mu muhanda cyambere kintegeka ?",
+    "options": [
+      {
+        "letter": "a",
+        "text": "Kugendera k’umuvuduko uri hejuru ya 30km/h"
+      },
+      {
+        "letter": "b",
+        "text": "kutarenza umuvuduko wa 30km/h"
+      },
+      {
+        "letter": "c",
+        "text": "birabujijwe kugendera kumuvuduko uri hejuru ya 30km/h"
+      },
+      {
+        "letter": "d",
+        "text": "nta gisubizo cyukuri"
+      }
+    ],
+    "answer": "c"
+  },
+  {
+    "num": 398,
+    "question": "Mfite uburenganzira bwo gutambuka muri iri sangano ?",
+    "options": [
+      {
+        "letter": "a",
+        "text": "yego, niba ukata ibumoso"
+      },
+      {
+        "letter": "b",
+        "text": "Oya niba ukata iburyo"
+      },
+      {
+        "letter": "c",
+        "text": "yego , bitewe noho ngana"
+      },
+      {
+        "letter": "d",
+        "text": "ntagisubizo cy’ukuri kirimo"
+      }
+    ],
+    "answer": "c"
+  },
+  {
+    "num": 399,
+    "question": "Ndi kumuvuduko wa 20km/h. nshobora gukomeza muri iri sangano ry’umuhanda?",
+    "options": [
+      {
+        "letter": "a",
+        "text": "oya"
+      },
+      {
+        "letter": "b",
+        "text": "yago, nshobora gukata iburyo"
+      },
+      {
+        "letter": "c",
+        "text": "yego, nshobora guta ibumoso cyangwa iburyo"
+      },
+      {
+        "letter": "d",
+        "text": "yego, nshobora gukata ibumoso gusa"
+      }
+    ],
+    "answer": "a"
+  },
+  {
+    "num": 403,
+    "question": "Iki cyapa gisobanura iki ?",
+    "options": [
+      {
+        "letter": "a",
+        "text": "Guhagarara, aho abanyeshuri bambukira"
+      },
+      {
+        "letter": "b",
+        "text": "Hagarara akanya gato"
+      },
+      {
+        "letter": "c",
+        "text": "Ibindi binyabiziga bigomba kuguha inzira"
+      },
+      {
+        "letter": "d",
+        "text": "Gutanga umwanya ku bindi binyabiziga i buryo bwawe"
+      }
+    ],
+    "answer": "b"
+  },
+  {
+    "num": 404,
+    "question": "Iki cyapa gisobanura iki mu nkomane ?",
+    "options": [
+      {
+        "letter": "a",
+        "text": "Tanga inzira ku binyabiziga binini"
+      },
+      {
+        "letter": "b",
+        "text": "Gabanya umuvuduko uhe inzira abanyamaguru."
+      },
+      {
+        "letter": "c",
+        "text": "Tanga inzira ku binyabiziga bigenda mu muhanda munini wegera"
+      },
+      {
+        "letter": "d",
+        "text": "Tanga inzira ku ibinyabiziga biturutse iburyo bwawe"
+      }
+    ],
+    "answer": "c"
+  },
+  {
+    "num": 405,
+    "question": "Iki cyapa gisobanura iki aho banyura bazengurutse ?",
+    "options": [
+      {
+        "letter": "a",
+        "text": "Tanga inzira ku binyabiziga biri mu muhanda munini"
+      },
+      {
+        "letter": "b",
+        "text": "Tanga inzira ku binyabiziga biturutse i bumoso"
+      },
+      {
+        "letter": "c",
+        "text": "Tanga inzira ku ma kamyo na za otobisi"
+      },
+      {
+        "letter": "d",
+        "text": "Ibinyabiziga byose uretse amapikipiki bigomba gutanga inzira"
+      }
+    ],
+    "answer": "b"
+  },
+  {
+    "num": 406,
+    "question": "Iki cyapa gisobanura iki ?",
+    "options": [
+      {
+        "letter": "a",
+        "text": "Komeza imbere gusa"
+      },
+      {
+        "letter": "b",
+        "text": "Aho kunyuranaho imbere"
+      },
+      {
+        "letter": "c",
+        "text": "Aho guhagarara umwanya munini"
+      },
+      {
+        "letter": "d",
+        "text": "Inzira y’ icyerekezo kimwe"
+      }
+    ],
+    "answer": "a"
+  },
+  {
+    "num": 407,
+    "question": "Iki cyapa gisobanura iki ?",
+    "options": [
+      {
+        "letter": "a",
+        "text": "Umuhanda urombereje w’ibice byinshi ibumoso"
+      },
+      {
+        "letter": "b",
+        "text": "Umuhanda uyoborejwe i bumoso"
+      },
+      {
+        "letter": "c",
+        "text": "Ibinyabiziga biturutse iburyo bifite uburenganzira bwo gutambuka mbere"
+      },
+      {
+        "letter": "d",
+        "text": "Kata i bumoso gusa"
+      }
+    ],
+    "answer": "d"
+  },
+  {
+    "num": 408,
+    "question": "Iki cyapa gisobanura iki ?",
+    "options": [
+      {
+        "letter": "a",
+        "text": "Kunyuranaho bikorerwa i buryo gusa"
+      },
+      {
+        "letter": "b",
+        "text": "Umuhanda uyoborejwe i buryo"
+      },
+      {
+        "letter": "c",
+        "text": "Kata i buryo gusa"
+      },
+      {
+        "letter": "d",
+        "text": "Umuhanda munini urasukira i bumoso"
+      }
+    ],
+    "answer": "c"
+  },
+  {
+    "num": 409,
+    "question": "Iki cyapa gisobanura iki ?",
+    "options": [
+      {
+        "letter": "a",
+        "text": "Birabujijwe gukata i buryo"
+      },
+      {
+        "letter": "b",
+        "text": "Tanga inzira ku bindi binyabiziga bigenda mu gihe ugiye gukatira iburyo"
+      },
+      {
+        "letter": "c",
+        "text": "Kata i buryo mu gihe nta bindi binyabiziga biturutse mu kindi cyerekezo"
+      },
+      {
+        "letter": "d",
+        "text": "Nta nkengero y’umuhanda yegutse iri i buryo"
+      }
+    ],
+    "answer": "a"
+  },
+  {
+    "num": 8,
+    "question": "Iki cyapa gisobanura iki ?",
+    "options": [
+      {
+        "letter": "a",
+        "text": "Ntihasohokerwa i bumoso mu nzira banyuramo bazengurutse"
+      },
+      {
+        "letter": "b",
+        "text": "Umuhanda udakomeza ibumoso"
+      },
+      {
+        "letter": "c",
+        "text": "Nta nkengero y’umuhanda yegutse iri ibumoso"
+      },
+      {
+        "letter": "d",
+        "text": "Birabujijwe gukata ibumoso"
+      }
+    ],
+    "answer": "d"
+  },
+  {
+    "num": 410,
+    "question": "Iki cyapa gisobanura iki ?",
+    "options": [
+      {
+        "letter": "a",
+        "text": "Birabujijwe guhindukira"
+      },
+      {
+        "letter": "b",
+        "text": "Birabijijwe gusubira inyuma"
+      },
+      {
+        "letter": "c",
+        "text": "Umuhanda unyerera imbere"
+      },
+      {
+        "letter": "d",
+        "text": "Ntibyemewe kugendera mu byerekezo byombi"
+      }
+    ],
+    "answer": "a"
+  },
+  {
+    "num": 411,
+    "question": "Iki cyapa gisobanura iki ?",
+    "options": [
+      {
+        "letter": "a",
+        "text": "Umuhanda urombereje w’ibice byinshi ku birometero 50"
+      },
+      {
+        "letter": "b",
+        "text": "Intera nto ntarengwa ya metero 50 hagati y’ibinyabiziga"
+      },
+      {
+        "letter": "c",
+        "text": "Umuvuduko urenga ibirometero 50 mu isaha"
+      },
+      {
+        "letter": "d",
+        "text": "Umuvuduko ntarengwa ugarukira ku birometero 50 mu isaha"
+      }
+    ],
+    "answer": "d"
+  },
+  {
+    "num": 412,
+    "question": "Iki cyapa gisobanura iki ?",
+    "options": [
+      {
+        "letter": "a",
+        "text": "Birabujijwe ku binyabiziga bitwara abakozi ba leta"
+      },
+      {
+        "letter": "b",
+        "text": "Birabujijwe guhagara umwanya munini"
+      },
+      {
+        "letter": "c",
+        "text": "Birabujijwe ku binyabiziga by’abikorera ki giti cyabo"
+      },
+      {
+        "letter": "d",
+        "text": "Parikingi"
+      }
+    ],
+    "answer": "b"
+  },
+  {
+    "num": 413,
+    "question": "Iki cyapa gisobanura iki ?",
+    "options": [
+      {
+        "letter": "a",
+        "text": "Aho guhagararwamo n’abanyamagare imbere"
+      },
+      {
+        "letter": "b",
+        "text": "Aho abana bagenewe kwiga gutwara amagare"
+      },
+      {
+        "letter": "c",
+        "text": "Inzira y’iminyamitende n’abanyamaguru itegetswe"
+      },
+      {
+        "letter": "d",
+        "text": "Abanyamagare bagomba kuva ku igare bakagendesha amaguru"
+      }
+    ],
+    "answer": "c"
+  },
+  {
+    "num": 414,
+    "question": "Iki cyapa gisobanura iki ?",
+    "options": [
+      {
+        "letter": "a",
+        "text": "Uburemere ntarengwa bwemewe bwa toni 3"
+      },
+      {
+        "letter": "b",
+        "text": "Ntihanyurwa n’ibinyabiziga bigenewe gutwara ibicuruzwa"
+      },
+      {
+        "letter": "c",
+        "text": "Ntihanyurwa n’ibinyabiziga bifite imitambiko itatu"
+      },
+      {
+        "letter": "d",
+        "text": "Hanyurwa n’ibinyabiziga bifite imitambiko itatu gusa"
+      }
+    ],
+    "answer": "b"
+  },
+  {
+    "num": 415,
+    "question": "Iki cyapa gisobanura iki ?",
+    "options": [
+      {
+        "letter": "a",
+        "text": "Inkomane banyuramo bazengurutse"
+      },
+      {
+        "letter": "b",
+        "text": "Biremewe guhindukira"
+      },
+      {
+        "letter": "c",
+        "text": "Inzira y’icyerekezo kimwe imbere"
+      },
+      {
+        "letter": "d",
+        "text": "Birabujijwe guhindukira"
+      }
+    ],
+    "answer": "a"
+  },
+  {
+    "num": 416,
+    "question": "Iki cyapa gisobanura iki ?",
+    "options": [
+      {
+        "letter": "a",
+        "text": "Umuhanda ugabanijwemo ibisate bibiri"
+      },
+      {
+        "letter": "b",
+        "text": "Umuhanda ugabanijwemo ibisate bine"
+      },
+      {
+        "letter": "c",
+        "text": "Inzira y’icyerekezo kimwe"
+      },
+      {
+        "letter": "d",
+        "text": "Ukugendera mu muhanda ubisikanirwamo"
+      }
+    ],
+    "answer": "d"
+  },
+  {
+    "num": 417,
+    "question": "Iki cyapa gisobanura iki ?",
+    "options": [
+      {
+        "letter": "a",
+        "text": "Umuhanda utaringaniye i buryo"
+      },
+      {
+        "letter": "b",
+        "text": "Akamanuko gashobora gutera ibyago"
+      },
+      {
+        "letter": "c",
+        "text": "Ahantu umuhanda umeze nabi"
+      },
+      {
+        "letter": "d",
+        "text": "Uguhinguka ku mwaro cyangwa ku nkombe"
+      }
+    ],
+    "answer": "b"
+  },
+  {
+    "num": 418,
+    "question": "Iki cyapa gisobanura iki ?",
+    "options": [
+      {
+        "letter": "a",
+        "text": "Akazamuko gashinze cyane"
+      },
+      {
+        "letter": "b",
+        "text": "Umuhanda utaringaniye i bumoso"
+      },
+      {
+        "letter": "c",
+        "text": "Ahantu umuhanda umeze nabi"
+      },
+      {
+        "letter": "d",
+        "text": "Ahegereye utununga"
+      }
+    ],
+    "answer": "a"
+  },
+  {
+    "num": 419,
+    "question": "Iki cyapa gisobanura iki ?",
+    "options": [
+      {
+        "letter": "a",
+        "text": "Akazamuko gashinze cyane"
+      },
+      {
+        "letter": "b",
+        "text": "Umuyaga w’intambike"
+      },
+      {
+        "letter": "c",
+        "text": "Uruhererekane rw’amakoni"
+      },
+      {
+        "letter": "d",
+        "text": "Umuhanda unyerera"
+      }
+    ],
+    "answer": "d"
+  },
+  {
+    "num": 420,
+    "question": "Iki cyapa gisobanura iki ?",
+    "options": [
+      {
+        "letter": "a",
+        "text": "Abana"
+      },
+      {
+        "letter": "b",
+        "text": "Inzira y’abanyamaguru – Itegure guhagarara"
+      },
+      {
+        "letter": "c",
+        "text": "Ikibuga cy’imikino cy’abana"
+      },
+      {
+        "letter": "d",
+        "text": "Ikibuga cy’ imyidagaduro"
+      }
+    ],
+    "answer": "a"
+  },
+  {
+    "num": 421,
+    "question": "Iki cyapa gisobanura iki ?",
+    "options": [
+      {
+        "letter": "a",
+        "text": "Isoko ry’amatungo"
+      },
+      {
+        "letter": "b",
+        "text": "Ivuriro ry’amatungo"
+      },
+      {
+        "letter": "c",
+        "text": "Uruzitiro rw’amatungo"
+      },
+      {
+        "letter": "d",
+        "text": "Akayira k’amatungo"
+      }
+    ],
+    "answer": "d"
+  },
+  {
+    "num": 423,
+    "question": "Iki cyapa gisobanura iki ?",
+    "options": [
+      {
+        "letter": "a",
+        "text": "Tanga inzira"
+      },
+      {
+        "letter": "b",
+        "text": "Icyago"
+      },
+      {
+        "letter": "c",
+        "text": "Icyerekezo kimwe"
+      },
+      {
+        "letter": "d",
+        "text": "Ntihanyurwa"
+      }
+    ],
+    "answer": "a"
+  },
+  {
+    "num": 425,
+    "question": "Iki cyapa:",
+    "options": [
+      {
+        "letter": "a",
+        "text": "Aho banyura bazengurutse"
+      },
+      {
+        "letter": "b",
+        "text": "Cyerekana umuhanda w'ibisate bitatu"
+      },
+      {
+        "letter": "c",
+        "text": "Cyerekana ahegereye inkomane"
+      },
+      {
+        "letter": "d",
+        "text": "Ntagisuzo cy’ukuri kirimo"
+      }
+    ],
+    "answer": "a"
+  },
+  {
+    "num": 426,
+    "question": "Iki cyapa gisobanura iki ?",
+    "options": [
+      {
+        "letter": "a",
+        "text": "Hanyurwa mu cyerekezo kimwe"
+      },
+      {
+        "letter": "b",
+        "text": "Ntihanyurwa"
+      },
+      {
+        "letter": "c",
+        "text": "Umuhanda udakomeza"
+      },
+      {
+        "letter": "d",
+        "text": "Ntagisuzo cy’ukuri kirimo"
+      }
+    ],
+    "answer": "b"
+  },
+  {
+    "num": 427,
+    "question": "Ni ikihe icyapa gisobanura umuhanda w'icyerekezo kimwe:",
+    "options": [
+      {
+        "letter": "a",
+        "text": "Icyapa D1a"
+      },
+      {
+        "letter": "b",
+        "text": "Icyapa E13a"
+      },
+      {
+        "letter": "c",
+        "text": "Icyapa C19"
+      },
+      {
+        "letter": "d",
+        "text": "Icyapa C1"
+      }
+    ],
+    "answer": "b"
+  },
+  {
+    "num": 428,
+    "question": "Iki cyapa gisobanura iki ?",
+    "options": [
+      {
+        "letter": "a",
+        "text": "Aho imihanda ihurira"
+      },
+      {
+        "letter": "b",
+        "text": "Inkomane y’aho umuhanda umwe urasukira iburyo"
+      },
+      {
+        "letter": "c",
+        "text": "Umuhanda udakomeza"
+      },
+      {
+        "letter": "d",
+        "text": "Nta gisubizo kirimo"
+      }
+    ],
+    "answer": "d"
+  },
+  {
+    "num": 429,
+    "question": "Iki cyapa gisobanura iki ?",
+    "options": [
+      {
+        "letter": "a",
+        "text": "Iherezo ry’ umuhanda urombeje w’ibice byinshi"
+      },
+      {
+        "letter": "b",
+        "text": "Birabujijwe kunyura mu mu muhanda w’ ikindi cyerekezo"
+      },
+      {
+        "letter": "c",
+        "text": "Birabujijwe kunyuranaho"
+      },
+      {
+        "letter": "d",
+        "text": "Birabujijwe guhagara ku iteme"
+      }
+    ],
+    "answer": "a"
+  },
+  {
+    "num": 430,
+    "question": "Iki kimenyetso kiri mu muhanda kivuze iki ?",
+    "options": [
+      {
+        "letter": "a",
+        "text": "Biremewe kunyuranaho"
+      },
+      {
+        "letter": "b",
+        "text": "Umuyobozi abujijwe kukirenga"
+      },
+      {
+        "letter": "c",
+        "text": "Wegereye icyapa cyo guhagarara umwanya muto"
+      },
+      {
+        "letter": "d",
+        "text": "Umuhanda ufunganye"
+      }
+    ],
+    "answer": "b"
+  },
+  {
+    "num": 431,
+    "question": "Iki kimenyetso kiri mu muhanda kivuze iki ?",
+    "options": [
+      {
+        "letter": "a",
+        "text": "Umuyobozi abujijwe kurenga umurongo wera ucagaguye cyeretse mugihe bitateza icyago"
+      },
+      {
+        "letter": "b",
+        "text": "Birabujijwe kunyuranaho"
+      },
+      {
+        "letter": "c",
+        "text": "Biremewe kunyuranaho ariko nturenge umurongo wera ucagaguye"
+      },
+      {
+        "letter": "d",
+        "text": "Birabujijwe gusubira inyuma"
+      }
+    ],
+    "answer": "a"
+  },
+  {
+    "num": 432,
+    "question": "Mu gihe utwaye ikinyabiziga uva kuri A ugana kuri B, Iki kimenyetso kiri mu muhanda kivuze iki ?",
+    "options": [
+      {
+        "letter": "a",
+        "text": "Umuyobozi ashobora kurenga umurongo wera udacagaguye mugihe cyo guhindukira gusa"
+      },
+      {
+        "letter": "b",
+        "text": "Umuyobozi w’ikinyabiziga abujijwe kunyuranaho, uretse gusa abayobozi b’ibinyamitende nibo bashobora kurenga umurongo wera udacagaguye"
+      },
+      {
+        "letter": "c",
+        "text": "Umuyobozi w’ikinyabiziga abujijwe kunyuranaho arenze umurongo wera udacagaguye"
+      },
+      {
+        "letter": "d",
+        "text": "Umuyobozi w’ikinyabiziga ashobora kunyuranaho mu gihe bitateza icyago"
+      }
+    ],
+    "answer": "d"
+  },
+  {
+    "num": 433,
+    "question": "Mu gihe utwaye ikinyabiziga uva kuri A ugana kuri B, Iki kimenyetso kiri mu muhanda kivuze iki ?",
+    "options": [
+      {
+        "letter": "a",
+        "text": "Umuyobozi w’ikinyabiziga ashobora kunyuranaho arenze umurongo wera udacagaguye"
+      },
+      {
+        "letter": "b",
+        "text": "Umuyobozi w’ikinyabiziga abujijwe kunyuranaho arenze imirongo yera"
+      },
+      {
+        "letter": "c",
+        "text": "Umuyobozi w’ikinyabiziga yemerewe kunyuranaho"
+      },
+      {
+        "letter": "d",
+        "text": "Abayobozi b’ibinyamitende gusa bemerewe kunyuranaho barenze umurongo wera udacagaguye"
+      }
+    ],
+    "answer": "b"
+  }
+]
