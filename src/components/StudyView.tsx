@@ -308,11 +308,17 @@ export default function StudyView({
                     </p>
 
                     {/* Display mapped official sign crop if applicable */}
-                    {q.hasImage && q.imagePath && (
-                      <div className="my-1.5 self-start bg-white p-1 rounded border border-slate-800 shadow-sm max-w-[80px]">
-                        <img src={q.imagePath} alt="" className="max-h-12 object-contain" />
-                      </div>
-                    )}
+                    {q.hasImage && q.imagePath && (() => {
+                      const basePath = typeof window !== "undefined" && window.location.pathname.startsWith("/amategekoyumuhanda")
+                        ? "/amategekoyumuhanda"
+                        : "";
+                      const fullImagePath = q.imagePath.startsWith("http") ? q.imagePath : `${basePath}${q.imagePath}`;
+                      return (
+                        <div className="my-1.5 self-start bg-white p-1 rounded border border-slate-800 shadow-sm max-w-[80px]">
+                          <img src={fullImagePath} alt="" className="max-h-12 object-contain" />
+                        </div>
+                      );
+                    })()}
 
                     <div className="text-[10px] flex flex-col gap-1.5 mt-1 border-t border-slate-800/40 pt-2 font-medium">
                       {rec.selectedOption ? (

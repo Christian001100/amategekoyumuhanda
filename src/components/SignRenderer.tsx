@@ -16,11 +16,16 @@ export default function SignRenderer({ questionText, originalNum }: SignRenderer
   // Find if there is a mapped image in our parsed JSON
   const q = questions.find((item) => item.originalNum === originalNum);
   if (q && q.hasImage && q.imagePath) {
+    const basePath = typeof window !== "undefined" && window.location.pathname.startsWith("/amategekoyumuhanda")
+      ? "/amategekoyumuhanda"
+      : "";
+    const fullImagePath = q.imagePath.startsWith("http") ? q.imagePath : `${basePath}${q.imagePath}`;
+
     return (
       <div className="flex flex-col items-center justify-center p-2.5 bg-slate-900/35 rounded-2xl border border-slate-800/60 mb-2 w-full max-w-[240px] mx-auto select-none">
         <div className="relative group overflow-hidden rounded-xl border border-slate-800 bg-white p-1.5 shadow-md shadow-black/20 transition-transform duration-300 hover:scale-[1.03] flex items-center justify-center">
           <img
-            src={q.imagePath}
+            src={fullImagePath}
             alt={`Icyapa cya kibazo ${originalNum}`}
             className="max-h-24 md:max-h-28 object-contain"
           />
