@@ -4,7 +4,6 @@ import "./globals.css";
 export const metadata: Metadata = {
   title: "Amategeko y'Umuhanda | Rwandan Driving Test Mastery",
   description: "Master all 404 Rwandan driving test questions in exactly 2 weeks using Spaced Repetition (Leitner System) and Active Recall.",
-  manifest: "/manifest.json",
   appleWebApp: {
     capable: true,
     statusBarStyle: "black-translucent",
